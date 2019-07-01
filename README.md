@@ -11,5 +11,5 @@ This is **bold**
 You make something italic by enclosing it in *italic text*
 This is *italic text*
 
-Search here [link to Google!] (http://google.com)
+Search here [link to Google!](http://google.com)
 
